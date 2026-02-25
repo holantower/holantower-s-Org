@@ -1,0 +1,8 @@
+{
+  "name": "HolanTower Apps",
+  "description": "A comprehensive AI suite inspired by HolanTower, featuring advanced Chat, Vision, Real-time Voice (Live), and Image Generation tools powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
